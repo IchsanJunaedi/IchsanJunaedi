@@ -13,9 +13,6 @@ Interested in AI Engineering
 ![todoroki](https://media.tenor.com/MbgBSPFFn3QAAAAM/todoroki-my-hero-academia.gif)
 
 
-
-![](https://github-readme-stats.vercel.app/api?username=IchsanJunaedi&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=IchsanJunaedi&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IchsanJunaedi&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
