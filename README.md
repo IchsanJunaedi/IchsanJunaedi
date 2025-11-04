@@ -11,5 +11,6 @@ Interested in AI Engineering
 
 
 ![todoroki](https://media.tenor.com/MbgBSPFFn3QAAAAM/todoroki-my-hero-academia.gif)
+)
 
-
+[![](https://visitcount.itsvg.in/api?id=IchsanJunaedi&icon=0&color=0)](https://visitcount.itsvg.in)
