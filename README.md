@@ -1,16 +1,10 @@
-# Hi 👋, I'm Muhammad Ichsan Junaedi, passionate about Information Systems and technology!
+<img width="416" height="410" alt="image" src="https://github.com/user-attachments/assets/bfce3f41-cd83-4645-8fce-2ab8b1da0277" /># Hi 👋, I'm Muhammad Ichsan Junaedi, passionate about Information Systems and technology!
 
-Interested in AI Engineering
+Aspiring AI Engineer with a strong foundation in web development and visual design.
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@icanbenicee)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/icanbenicee)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/yourdiscordid)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brotherhome15@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/MuhammadIchsanJunaedi)
+Currently focused on learning Python, machine learning, and AI systems, while leveraging experience in React, Laravel, and modern databases to build real-world applications. Passionate about creating intelligent, user-centered solutions by combining AI, engineering, and design. Open to AI-focused internships and projects.
 
-
-
-![todoroki](https://media.tenor.com/MbgBSPFFn3QAAAAM/todoroki-my-hero-academia.gif)
+![giyutomioka](https://media1.tenor.com/m/9erRAlhfMXkAAAAC/giyu-tomioka.gif)
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IchsanJunaedi&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
