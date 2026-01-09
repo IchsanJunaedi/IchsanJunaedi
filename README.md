@@ -4,7 +4,7 @@ Aspiring AI Engineer with a strong foundation in web development and visual desi
 
 Currently focused on learning Python, machine learning, and AI systems, while leveraging experience in React, Laravel, and modern databases to build real-world applications. Passionate about creating intelligent, user-centered solutions by combining AI, engineering, and design. Open to AI-focused internships and projects.
 
-![giyutomioka](https://media1.tenor.com/m/9erRAlhfMXkAAAAC/giyu-tomioka.gif)
+![](https://media1.tenor.com/m/9erRAlhfMXkAAAAC/giyu-tomioka.gif)
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IchsanJunaedi&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
