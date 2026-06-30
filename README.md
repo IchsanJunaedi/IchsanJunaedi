@@ -1,8 +1,6 @@
 # Hi 👋, I'm Muhammad Ichsan Junaedi, passionate about Information Systems and technology!
 
-Aspiring AI Engineer with a strong foundation in web development and visual design.
-
-Currently focused on learning Python, machine learning, and AI systems, while leveraging experience in React, Laravel, and modern databases to build real-world applications. Passionate about creating intelligent, user-centered solutions by combining AI, engineering, and design. Open to AI-focused internships and projects.
+Information Systems student with hands-on experience in the software development lifecycle, system analysis, and quality assurance. Proven track record in defining functional requirements and user workflows for AI-powered conversational platforms, alongside designing and executing rigorous testing strategies, including automated integration tests and end-to-end user flow simulation tests with over 700 unit tests for complex web applications. Skilled in manual and functional testing, documenting test cases, and collaborating with cross-functional teams to bridge the gap between business needs and technical execution. Detail-oriented, analytical, and highly committed to ensuring software quality and successful user acceptance testing.
 
 ![](https://media1.tenor.com/m/9erRAlhfMXkAAAAC/giyu-tomioka.gif)
 
